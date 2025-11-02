@@ -16,6 +16,16 @@
 
 </div>
 
+## 📌 Student Details
+
+- **Name:** Yashvardhan Jani 
+- **Branch:** Computer Science & Engineering (CSE)  
+- **College:** Pandit Deendayal Energy University, Gandhinagar, Gujarat, India
+
+## 🎓 Instructors (Professors)
+- **Lab Instructor:** Dr. Meera Khanna
+- **Theory Lecture Instructor:** Dr. Himanshu Gajera
+
 ## 📚 Topics Covered
 
 ### **Experiment 1: [Revision of Arrays](./Practical-01) 🔢** 
