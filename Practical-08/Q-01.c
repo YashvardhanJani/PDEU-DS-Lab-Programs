@@ -46,6 +46,7 @@ int main() {
     insert(root->left, 80, 'L');
     insert(root->left, 90, 'R');
 
+    printf("Preorder: ");
     preorder(root);
 
     return 0;
