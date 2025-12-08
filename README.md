@@ -2,96 +2,105 @@
 
 # 🗃️ PDEU Data Structures Lab Programs
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue?logo=c" alt="C Programming" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/YashvardhanJani/PDEU-DS-Lab-Programs?style=social" alt="GitHub Stars" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/forks/YashvardhanJani/PDEU-DS-Lab-Programs?style=social" alt="GitHub Forks" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/issues/YashvardhanJani/PDEU-DS-Lab-Programs?style=social" alt="GitHub Issues" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/license/YashvardhanJani/PDEU-DS-Lab-Programs" alt="License" />
-</p>
+![C](https://img.shields.io/badge/C-%2300437A.svg?style=for-the-badge&logo=c&logoColor=white)
+![GitHub repo size](https://img.shields.io/github/repo-size/YashvardhanJani/PDEU-DS-Lab-Programs?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+<!-- line break -->
+![GitHub stars](https://img.shields.io/github/stars/YashvardhanJani/PDEU-DS-Lab-Programs?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/YashvardhanJani/PDEU-DS-Lab-Programs?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/YashvardhanJani/PDEU-DS-Lab-Programs?style=flat)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/YashvardhanJani/PDEU-DS-Lab-Programs?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/YashvardhanJani/PDEU-DS-Lab-Programs?style=flat)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YashvardhanJani.PDEU-DS-Lab-Programs&left_color=grey&right_color=black&format=true)
+
+---
+
+**[Explore Programs](#topics-covered)** • 
+**[Getting Started](#quick-start-guide)** • 
+**[Complexity Analysis](#complexity-analysis-reference)** • 
+**[Contributing](#contributing)** •
+**[Connect](#connect--collaborate)**
+
+---
 
 </div>
 
-## 📌 Student Details
+## Student Details
 
 - **Name:** Yashvardhan Jani 
 - **Branch:** Computer Science & Engineering (CSE)  
 - **College:** Pandit Deendayal Energy University, Gandhinagar, Gujarat, India
 
-## 🎓 Instructors (Professors)
+## Instructors (Professors)
 - **Lab Instructor:** Dr. Meera Khanna
 - **Theory Lecture Instructor:** Dr. Himanshu Gajera
 
-## 📚 Topics Covered
+## Topics Covered
 
-### **Experiment 1: [Revision of Arrays](./Practical-01) 🔢** 
-📌 *Linear Search, Binary Search, Sorting Algorithms*
-- Implementation of Linear and Binary Search
-- Bubble Sort, Insertion Sort, Selection Sort
-- Finding Min/Max, Second Largest/Smallest elements
+### **Experiment 1: [Revision of Arrays](./Practical-01)** 
+- *Linear Search, Binary Search, Sorting Algorithms*
+   - Implementation of Linear and Binary Search
+   - Bubble Sort, Insertion Sort, Selection Sort
+   - Finding Min/Max, Second Largest/Smallest elements
 
-### **Experiment 2: [Revision of Structures](./Practical-02) 🧱**
-📌 *Structure Definition, Arrays of Structures, Nested Structures*
-- Creating and using structures
-- Array of structures for multiple records
-- Nested structure implementation
+### **Experiment 2: [Revision of Structures](./Practical-02)**
+- *Structure Definition, Arrays of Structures, Nested Structures*
+   - Creating and using structures
+   - Array of structures for multiple records
+   - Nested structure implementation
 
-### **Experiment 3: [Revision of Pointers](./Practical-03) 📍**
-📌 *Pointers with Arrays, Structures, Functions*
-- Arrays of pointers and pointers to arrays
-- Pointers to structures
-- Function parameter passing using pointers
+### **Experiment 3: [Revision of Pointers](./Practical-03)**
+- *Pointers with Arrays, Structures, Functions*
+   - Arrays of pointers and pointers to arrays
+   - Pointers to structures
+   - Function parameter passing using pointers
 
-### **Experiment 4: 🔗 [Linked Lists](./Practical-04)**
-📌 *Singly, Doubly, and Circular Linked Lists*
-- Merging sorted linked lists
-- Node insertion (front, middle, end)
-- Node deletion operations
-- Circular and doubly linked list implementations
+### **Experiment 4: [Linked Lists](./Practical-04)**
+- *Singly, Doubly, and Circular Linked Lists*
+   - Merging sorted linked lists
+   - Node insertion (front, middle, end)
+   - Node deletion operations
+   - Circular and doubly linked list implementations
 
-### **Experiment 5: 📚 [Stack Implementation](./Practical-05)**
-📌 *Stack using Array and Linked List*
-- Stack operations: Push, Pop, Peek
-- Recursive stack sorting
-- Array and linked list implementations
+### **Experiment 5: [Stack Implementation](./Practical-05)**
+- *Stack using Array and Linked List*
+   - Stack operations: Push, Pop, Peek
+   - Recursive stack sorting
+   - Array and linked list implementations
 
-### **Experiment 6: [Stack Applications](./Practical-06) 📝**
-📌 *Expression Conversion and Evaluation*
-- Infix to Postfix conversion
-- Postfix expression evaluation
-- Balanced parentheses checking
+### **Experiment 6: [Stack Applications](./Practical-06)**
+- *Expression Conversion and Evaluation*
+   - Infix to Postfix conversion
+   - Postfix expression evaluation
+   - Balanced parentheses checking
 
-### **Experiment 7: 🎫 [Queue Operations](./Practical-07)**
-📌 *Queue, Priority Queue, Circular Queue, Deque*
-- Queue implementation using arrays and linked lists
-- Priority Queue operations
-- Double-Ended Queue (Deque)
-- Circular Queue implementation
+### **Experiment 7: [Queue Operations](./Practical-07)**
+- *Queue, Priority Queue, Circular Queue, Deque*
+   - Queue implementation using arrays and linked lists
+   - Priority Queue operations
+   - Double-Ended Queue (Deque)
+   - Circular Queue implementation
 
-### **Experiment 8: 🌳 [Tree Data Structures](./Practical-08)**
-📌 *Binary Trees, BST, Tree Traversals*
-- Binary Tree insertion, deletion, search
-- Pre-order, In-order, Post-order traversals
-- Binary Search Tree construction
+### **Experiment 8: [Tree Data Structures](./Practical-08)**
+- *Binary Trees, BST, Tree Traversals*
+   - Binary Tree insertion, deletion, search
+   - Pre-order, In-order, Post-order traversals
+   - Binary Search Tree construction
 
-### **Experiment 9: 🕸️ [Graph Data Structures](./Practical-09)**
-📌 *BFS and DFS Traversals*
-- Breadth First Search (BFS) implementation
-- Depth First Search (DFS) implementation
-- Cycle detection in graphs
-- Minimum Spanning Tree (Kruskal's Algorithm)
+### **Experiment 9: [Graph Data Structures](./Practical-09)**
+- *BFS and DFS Traversals*
+   - Breadth First Search (BFS) implementation
+   - Depth First Search (DFS) implementation
+   - Cycle detection in graphs
+   - Minimum Spanning Tree (Kruskal's Algorithm)
 
-### **Experiment 10: #️⃣ [Hashing](./Practical-10)**
-📌 *Hash Functions and Collision Resolution*
-- Hash table implementation
-- Collision handling techniques
-- Subset checking using hashing
+### **Experiment 10: [Hashing](./Practical-10)**
+- *Hash Functions and Collision Resolution*
+   - Hash table implementation
+   - Collision handling techniques
+   - Subset checking using hashing
 
-## 📈 Progress Tracker
+## Progress Tracker
 
 Track your progress through the lab experiments:
 
@@ -106,7 +115,7 @@ Track your progress through the lab experiments:
 - [ ] Experiment 9: Graphs
 - [ ] Experiment 10: Hashing
 
-## 📊 Complexity Analysis Reference
+## Complexity Analysis Reference
 
 | Data Structure | Search | Insert | Delete | Space |
 |---------------|--------|--------|--------|-------|
@@ -120,7 +129,7 @@ Track your progress through the lab experiments:
 
 *Worst case complexity
 
-## 🧠 Notes:
+## Notes:
 
 - **Binary Search Tree (Unbalanced):**  
   In the worst case, the tree becomes skewed (like a linked list), leading to O(n) operations.
@@ -131,7 +140,7 @@ Track your progress through the lab experiments:
 
 ---  
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 1. **Clone the repository:**  
    ```bash
@@ -139,7 +148,7 @@ Track your progress through the lab experiments:
    cd PDEU-DS-Lab-Programs
    ```
 
-## 🫱🏻‍🫲🏼 Contributing
+## Contributing
 
 Contributions are welcome! If you have improvements or additional exercises:
 
@@ -166,13 +175,13 @@ Contributions are welcome! If you have improvements or additional exercises:
 5. **Open a Pull Request**
    - Go to the original repository and click on 'New Pull Request'
 
-### Contribution Guidelines
+### Contribution Guidelines :
 
-- ✅ Follow the existing code style and structure
-- ✅ Add comments to explain complex logic
-- ✅ Test your code before submitting
-- ✅ Update documentation if needed
-- ✅ Write clear commit messages
+- Follow the existing code style and structure
+- Add comments to explain complex logic
+- Test your code before submitting
+- Update documentation if needed
+- Write clear commit messages
 
 ---
 
@@ -182,7 +191,7 @@ Contributions are welcome! If you have improvements or additional exercises:
 
 ---
 
-## 📞 Contact & Collaborate
+## Connect & Collaborate
 
 <p align="center">
   <a href="https://github.com/YashvardhanJani"><img src="https://img.shields.io/badge/GitHub-YashvardhanJani-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
@@ -192,7 +201,7 @@ Contributions are welcome! If you have improvements or additional exercises:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -201,5 +210,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <div align="center">
 
 **Made with ❤️ by Yashvardhan Jani | CSE Student @ PDEU**
+
+---
+
+⬆️ [Back to Top](#top)
 
 </div>
