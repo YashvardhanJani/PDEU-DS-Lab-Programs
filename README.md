@@ -100,6 +100,17 @@
    - Collision handling techniques
    - Subset checking using hashing
 
+- ### **End-Sem Lab Practical Exam**
+<table>
+  <tr>
+    <td>Practical Exam - 2025</td>
+    <td><a href="./Practical-Exam/Set01.c">Set 01</a></td>
+    <td><a href="./Practical-Exam/Set02.c">Set 02</a></td>
+    <td><a href="./Practical-Exam/Set03.c">Set 03</a></td>
+    <td><a href="./Practical-Exam/Set04.c">Set 04</a></td>
+  </tr>
+</table>   
+
 ## Progress Tracker
 
 Track your progress through the lab experiments:
